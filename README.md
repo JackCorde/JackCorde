@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-**JackCorde/JackCorde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <p><em>A student at <a href="https://www.uth.edu.mx/">Technological University of Huejotzingo</a>, Management and Develop of Software. 😊</br>
 </em></p>
